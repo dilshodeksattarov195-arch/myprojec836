@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdave",
+        "uuid": 3876532,
+        "checksum": "tbisc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
